@@ -5,7 +5,7 @@
 
 # 缓存
 ## redis
-### [仓库 https://github.com/go-redis/redis/v8](https://github.com/go-redis/redis/v8)
+### [仓库 https://github.com/go-redis/redis](https://github.com/go-redis/redis)
 
 # 支付
 ## 支付宝，微信支付，苹果支付
